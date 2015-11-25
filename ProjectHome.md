@@ -1,0 +1,1 @@
+Use of neural networks to detect heart anomalies. Currently uses fully supervised training.
